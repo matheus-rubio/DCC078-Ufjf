@@ -11,5 +11,5 @@
 ### Factory-Method
 
 <p align="center">
-  <img src="./diagramas/Factory-Method.jpeg" style="width: 300px" alt="Descrição da Imagem">
+  <img src="./diagramas/FactoryMethod.jpeg" style="width: 600px" alt="Descrição da Imagem">
 </p>
